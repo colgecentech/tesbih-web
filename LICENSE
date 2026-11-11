@@ -1,0 +1,109 @@
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+Tesbih Sayacı Website (tesbih-web)
+Version 1.1 · Effective: 10 November 2026
+
+Copyright © 2026 ÇÖLGEÇEN TEKNOLOJİ. All rights reserved.
+
+LICENSE TYPE
+
+This is a proprietary, "all rights reserved" license. It is NOT an open
+source license and it is not an OSI-approved license. No open source license
+(MIT, Apache-2.0, BSD, GPL, LGPL, AGPL, MPL, Unlicense, CC0 or any other)
+applies to this work. Public visibility of this repository does not grant any
+permission and does not place the work in the public domain.
+
+This license is intentionally more restrictive than any copyleft license,
+including AGPL-3.0: copyleft licenses grant the rights to use, study, modify
+and redistribute the work, while this license grants none of them.
+
+1. SCOPE
+
+"Work" means every file and element in this repository, including but not
+limited to HTML, CSS and JavaScript source code, text and copy, images,
+screenshots, fonts bundled with the site, audio and video, the logo, brand
+elements and the visual design of the site.
+
+2. NO LICENSE GRANTED
+
+No right or permission of any kind is granted, whether by implication,
+estoppel or otherwise. You may view this repository on GitHub and visit the
+published site in a web browser. Nothing else is permitted.
+
+3. PROHIBITED ACTS
+
+Without prior written permission from the copyright holder, you may not:
+
+  a) copy, reproduce, duplicate, mirror, archive or back up the Work, in whole
+     or in part;
+  b) publish, distribute, sublicense, rent, lease, sell, resell, host, or
+     otherwise make the Work available to any third party;
+  c) modify, adapt, translate, localize, refactor, decompile, disassemble,
+     reverse engineer or create derivative works from the Work, except to the
+     limited extent such restriction is unenforceable under applicable law;
+  d) use the Work, its source code or its design in any other project,
+     product, template, theme, starter kit, course or service;
+  e) use the Work for commercial purposes of any kind, including paid
+     services, advertising revenue, bundling with paid products, or
+     monetized hosting;
+  f) use the Work as training data for machine learning or artificial
+     intelligence models, or include it in any dataset used for that purpose;
+  g) scrape, crawl at volume, or bulk-download the Work or the published
+     site by automated means;
+  h) use, imitate or register the name "Tesbih Sayacı", the logo, the icons
+     or the visual identity in any product, service, domain name or
+     promotional material;
+  i) remove, obscure or alter any copyright notice, license text or
+     attribution contained in the Work;
+  j) circumvent or defeat any technical protection measure in the Work.
+
+4. PERMISSION
+
+Permission is granted only in writing, only for the specific use described in
+that writing, and only to the named recipient. A request does not constitute
+permission. Requests: colgecentech@gmail.com
+
+5. THIRD-PARTY COMPONENTS (NOT COVERED)
+
+This license does not apply to the following, which remain governed by their
+own terms:
+
+  a) Fonts: Newsreader and Plus Jakarta Sans, licensed under the SIL Open
+     Font License 1.1 (https://openfontlicense.org).
+  b) Quran translations and hadith texts: subject to the rights of their
+     respective translators and publishers.
+  c) Device frames or mockups appearing in the screenshots: subject to their
+     own licenses.
+  d) The names and marks of third parties referenced on the site.
+
+6. NO WARRANTY
+
+The Work is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, accuracy and non-infringement. The copyright holder
+is not liable for any claim, damage, loss or other liability arising from the
+Work or its use.
+
+7. TERMINATION
+
+Any breach of this license terminates all viewing rights granted in Section 2
+automatically and immediately. On termination you must cease all use and
+destroy every copy of the Work in your possession or control.
+
+8. ENFORCEMENT AND GOVERNING LAW
+
+Violations will be pursued under Law No. 5846 on Intellectual and Artistic
+Works of the Republic of Türkiye, the Berne Convention and other applicable
+international treaties. The copyright holder may seek injunctive relief,
+seizure and destruction of infringing copies, damages, and disgorgement of
+profits. This license is governed by the laws of the Republic of Türkiye;
+the courts and enforcement offices of Türkiye have exclusive jurisdiction.
+
+9. SEVERABILITY
+
+If any provision of this license is held invalid or unenforceable, the
+remaining provisions stay in full force, and the invalid provision is
+enforced to the maximum extent permitted by law.
+
+------------------------------------------------------------------
+Contact: colgecentech@gmail.com
+Project: https://colgecentech.github.io/tesbih-web/
